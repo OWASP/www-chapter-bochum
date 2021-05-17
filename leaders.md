@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Reza Asif](mailto:reza.asif@owasp.org)
+* [Ibrahim Akknlak](mailto:ibrahium.akknlak@owasp.org)
